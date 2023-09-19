@@ -312,6 +312,10 @@
     .menu-icon {
         display: flex;
     }
+
+    .form-col {
+        padding: 1rem;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up */
